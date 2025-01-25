@@ -1,0 +1,10 @@
+https://github.com/beego/beego
+https://github.com/cockroachdb/cockroach
+https://github.com/kubernetes/kubernetes
+https://github.com/hashicorp/terraform
+https://github.com/labstack/echo
+https://github.com/openfaas/faas
+https://github.com/tailwindlabs/tailwindcss
+https://github.com/facebook/react
+https://github.com/hwchase17/langchain
+https://github.com/huggingface/transformers
